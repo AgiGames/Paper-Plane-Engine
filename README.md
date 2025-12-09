@@ -78,15 +78,15 @@ Returns all discovered printer names and their description.
   "HP LaserJet Pro M404
    Color: True
    Paper sizes:
-    ...,
+    ...",
   "Canon G3010 Series"
    Color: True
    Paper sizes:
-    ...,
+    ...",
   "Microsoft Print to PDF"
    Color: True
    Paper sizes:
-    ...
+    ..."
 ]
 ```
 
