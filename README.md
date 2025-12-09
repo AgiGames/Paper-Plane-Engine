@@ -29,7 +29,7 @@
 
 ## 📌 API Endpoints
 
-### ### **1. Print a File**
+### **1. Print a File**
 
 `POST /ppe/print`
 
