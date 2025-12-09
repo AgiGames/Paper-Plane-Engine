@@ -42,4 +42,11 @@ public class PPEngineController {
         return ResponseEntity.ok(Main.printEngine.printerDescriptions);
     }
 
+    @PostMapping("/exclude-printers")
+    public ResponseEntity<String> excludePrinters(@RequestParam("printer-names") String[] printerNames,
+                                                  @RequestParam("clear-exclude-set") boolean clearExcludeSet) {
+        Main.printEngine.excludePrinters(printerNames, clearExcludeSet);
+        return ResponseEntity.ok("Printers successfully excluded.");
+    }
+
 }
