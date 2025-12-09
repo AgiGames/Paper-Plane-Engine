@@ -83,7 +83,7 @@ Returns all discovered printer names and their description.
    Color: True
    Paper sizes:
     ...",
-  "Microsoft Print to PDF"
+  "Microsoft Print to PDF
    Color: True
    Paper sizes:
     ..."
