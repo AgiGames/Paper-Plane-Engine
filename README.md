@@ -69,7 +69,7 @@ async function printFile(file, color, widthMM, heightMM) {
 
 `POST /ppe/get-printers`
 
-Returns all discovered printer names and their description.
+Returns all discovered printer names and descriptions.
 
 #### **Response Example**
 
