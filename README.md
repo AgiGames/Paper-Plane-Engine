@@ -27,9 +27,9 @@
 
 ---
 
-## 📌 API Endpoints
+## API Endpoints 🟢
 
-### **1. Print a File**
+### **1. Print a File** 🗃️🖨️
 
 `POST /ppe/print`
 
@@ -65,7 +65,7 @@ async function printFile(file, color, widthMM, heightMM) {
 
 ---
 
-### **2. Get Available Printers**
+### **2. Get Available Printers** 🔽🖨️
 
 `POST /ppe/get-printers`
 
@@ -92,7 +92,7 @@ async function getPrinters() {
 
 ---
 
-### **3. Exclude Specific Printers**
+### **3. Exclude Specific Printers** ❎🖨️
 
 `POST /ppe/exclude-printers`
 
