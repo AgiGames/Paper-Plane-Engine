@@ -1,6 +1,6 @@
 # Paper Plane's Print Engine 🖨️⚙️
 
-### How to Start the Engine 🛠️
+## How to Start the Engine 🛠️
 
 - ### Windows 🪟
     Step 1: Download the zip file of the latest release ```Paper_Plane_Engine.zip``` from github in releases section.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 * Upload and print files with custom page dimensions (in millimeters)
 * Color or monochrome printing
