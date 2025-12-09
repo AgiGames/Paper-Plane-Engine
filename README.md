@@ -79,7 +79,7 @@ Returns all discovered printer names and their description.
    Color: True
    Paper sizes:
     ...",
-  "Canon G3010 Series"
+  "Canon G3010 Series
    Color: True
    Paper sizes:
     ...",
