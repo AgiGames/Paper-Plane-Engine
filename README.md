@@ -69,15 +69,24 @@ async function printFile(file, color, widthMM, heightMM) {
 
 `POST /ppe/get-printers`
 
-Returns all discovered printer names.
+Returns all discovered printer names and their description.
 
 #### **Response Example**
 
 ```json
 [
-  "HP LaserJet Pro M404",
-  "Canon G3010 Series",
+  "HP LaserJet Pro M404
+   Color: True
+   Paper sizes:
+    ...,
+  "Canon G3010 Series"
+   Color: True
+   Paper sizes:
+    ...,
   "Microsoft Print to PDF"
+   Color: True
+   Paper sizes:
+    ...
 ]
 ```
 
